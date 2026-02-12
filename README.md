@@ -3,7 +3,7 @@ Shopping online can be overwhelming. You search for a simple pair of shoes, but 
 Dataset Used:
 The given dataset contains information about various products, including their IDs, descriptions, and specifications. Below is a detailed description of each column and the type of data it contains.
 
-You can download the entire dataset here. Or you can download the smaller sample dataset here.
+You can download the entire dataset at - https://www.kaggle.com/datasets/piyushjain16/amazon-product-data
 
 ### Column Descriptions:
 #### PRODUCT_ID (Integer) A unique identifier assigned to each product. Example: 1925202, 2673191
