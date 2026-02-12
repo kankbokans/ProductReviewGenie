@@ -1,0 +1,10 @@
+gradio
+openai
+pandas
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langchain_classic
+faiss-cpu
